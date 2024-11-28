@@ -40,7 +40,9 @@ export default function Contacto() {
         <meta
           name="description"
           content="Ponte en contacto con el equipo de Divilo para obtener soporte o hacer consultas."
-        />
+              />
+        <meta name="next-size-adjust" content="100vw" />
+
       </Head>
 
       <div className="max-w-3xl mx-auto p-6 h-screen flex justify-center items-center">
