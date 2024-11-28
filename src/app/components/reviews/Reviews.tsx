@@ -1,7 +1,7 @@
 import Image from "next/image";
 export default function Reviews() {
     return (
-        <section className="bg-gray-50 py-16">
+        <section className="bg-gray-50 py-16" id="testimonios">
   <div className="container mx-auto text-center">
     <h2 className="text-3xl font-semibold text-gray-800 mb-10">Lo que dicen nuestros usuarios</h2>
     <p className="text-lg text-gray-600 mb-12">¡Únete a miles de usuarios satisfechos que han simplificado sus gastos con Divilo!</p>

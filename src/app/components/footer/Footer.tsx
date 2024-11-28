@@ -22,10 +22,10 @@ export default function Footer() {
             <a href="#preguntas-frecuentes" className="text-lg text-gray-200 hover:text-sky-500 transition-colors py-2">
               Preguntas frecuentes
             </a>
-            <a href="#contacto" className="text-lg text-gray-200 hover:text-sky-500 transition-colors py-2">
+            <a href="/contacto" className="text-lg text-gray-200 hover:text-sky-500 transition-colors py-2">
               Contacto
             </a>
-            <a href="#politica-privacidad" className="text-lg text-gray-200 hover:text-sky-500 transition-colors py-2">
+            <a href="/privacidad" className="text-lg text-gray-200 hover:text-sky-500 transition-colors py-2">
               Política de privacidad
             </a>
           </div>

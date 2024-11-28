@@ -1,10 +1,10 @@
 
 export default function CaracteristicasPrincipales() {
     return (
-        <section className="bg-white py-16">
+        <section className="bg-white py-16" id="caracteristicas">
   <div className="container mx-auto text-center">
     <h2 className="text-3xl font-semibold text-gray-800 mb-10">Características Principales</h2>
-    <p className="text-lg text-gray-600 mb-12">Con Divilo, gestionar tus gastos nunca fue tan fácil.</p>
+    <p className="text-lg text-gray-600 mb-12">Con Divilo   , gestionar tus gastos nunca fue tan fácil.</p>
 
     <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-10">
       <div className="bg-emerald-500 text-white p-8 rounded-lg shadow-lg">
